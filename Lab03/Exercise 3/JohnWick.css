@@ -1,0 +1,43 @@
+a
+{
+    background-color: red;
+    color: black;
+    font-size: 30pt;
+}
+
+a:hover
+{
+  background-color: blue;
+  color:yellow;
+  font-size: 30pt;
+}
+
+body
+{
+  background-color: blue;
+  color: pink;
+  background-image: url(giphy.gif);
+  background-size: 30%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+p
+{
+  background-color: blue;
+  color: white;
+  font-family: Courier;
+  font-size: 16pt;
+}
+
+p:hover
+{
+  background-color: green;
+  color: orange;
+}
+
+p.Killer
+{
+  color:white;
+  background-color: black;
+}
